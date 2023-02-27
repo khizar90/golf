@@ -1,0 +1,563 @@
+@font-face{
+    src: url(../font/SF-Pro-Display-Light.otf);
+    font-family: light;
+    
+}
+
+@font-face{
+    src: url(../font/SF-Pro-Display-Medium.otf);
+    font-family: medium;
+    
+}
+@font-face{
+  src: url(../font/SF-Pro-Display-Regular.otf);
+  font-family: regular;
+  
+}
+header{
+    background-color: #171717;
+     height: auto;
+}
+header .row .col-md-8 img{ 
+    width: 15%;
+    height: auto;
+}
+header .row .col-md-4 img{ 
+    width: 25%;
+    height: auto;
+}
+header  .ball3 img{ 
+    width: 5%;
+    height: auto;
+}
+header .section1{
+    padding-top: 20%;
+
+}
+.col-md-6 .section1 .title{
+    color: #FFFFFF;
+    font-size: 42px;
+    font-family: light;
+}
+.col-md-6 .section1 .dis{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: light;
+}
+.col-md-6 .section1 .titleimg img{
+    width: 90%; 
+    height: auto;
+}
+
+
+
+.section2{
+  position: relative;
+    background-color: #148666;
+}
+.section2 .ball4 img{
+    width: 5%;
+    height: auto;
+}
+.section2  .ball3 img{ 
+    width: 5%;
+    height: auto;
+}
+.section2 .container .title{
+    width: 90%;
+    font-size: 42px;
+    color: #FFFFFF;
+    font-family: medium;
+}
+.section2 .image img{
+    width: 100%;
+}
+.section2 .sideimg{
+  position: absolute;
+  right: 0px;
+  top: 10%
+
+}
+.section2 .sideimg img{
+  float: right;
+  width: 25%;
+}
+
+
+
+
+.section3{
+    background-color: #171717;
+}
+
+.section3 .title{
+    color: #FFFFFF;
+    font-family: medium;
+    font-size: 42px;
+}
+.section3 .title span{
+    color: #148666;
+}
+.section3 .ball3 img{
+    width: 5%;
+    height: auto;
+}
+.section3 img{
+    width: 100%;
+}
+.section3 .image img{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.section4{
+    background-color: #148666;
+}
+.section4 .ball4 img{
+    width: 5%;
+    height: auto;
+}
+
+
+.section4 .title{
+    color: #FFFFFF;
+    font-family: medium;
+    font-size: 55px;
+    width: 90%;
+  }
+  .section4 .title span{
+    color: #171717;
+  }
+  .section4 .images img{
+    margin-left: auto; margin-right: auto; width: 80%; display: block;
+  }
+
+
+
+  .section5{
+    background-color: #171717;
+  }
+  .section5 .image img{
+    margin-left: auto; margin-right: auto; width: 80%; display: block;
+
+  }
+  .section5 .title{
+    margin-top: 50%;
+    font-size: 42px;
+    color: #FFFFFF;
+    font-family: medium;
+  }
+  .section5 .title span{
+    color: #148666;
+  }
+  .section5 .dis{
+    font-family: light;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: center;
+  }
+
+
+
+
+
+  .section6 {
+    position: relative;
+    background-color: #148666;
+  }
+  .section6 .container{
+    width: 60%;
+    margin: auto;
+  }
+  .section6 .title{
+    font-family: medium;
+    color: #FFFFFF;
+    font-size: 60px;
+  }
+  .section6 .title span{
+    color: #171717
+    ;
+  }
+  .section6 .sideimg{
+    position: absolute;
+    left: 0px;
+    top: 10%;
+  }
+  .section6 .sideimg2{
+    
+    position: absolute;
+    right:  0px;
+    top: 300px;
+  }
+  .section6 .sideimg2 img{
+    float: right;
+    width: 28%;
+  }
+  .section6 .sideimg img{
+    width: 20%;
+  }
+
+
+  .section7{
+    background-color: #171717;
+  }
+  .section7 .ball img{
+    width: 25%;
+  }
+  .section7 .image img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .section7 .title{
+    font-family: medium;
+    color: #FFFFFF;
+    font-size: 60px;
+  }
+  .section7 .title span{
+    color: #148666
+    ;
+  }
+
+  .section7 .dis{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: light;
+  }
+
+
+  .section8{
+    position: relative;
+    background-color: #148666;
+  }
+  .section8 .title{
+    font-family: medium;
+    color: #FFFFFF;
+    font-size: 60px;
+  }
+  .section8 .title span{
+    color: #171717;
+  }
+  
+  .section8 .dis{
+    width: 70%;
+    color: #FFFFFF;
+    font-size: 38px;
+    font-family: light;
+  }
+  .section8 .image img{
+    width: 100%;
+  }
+
+  .section8 .sideimg{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  }
+  .section8 .sideimg img{
+    float: right;
+    width: 20%;
+  }
+
+
+
+
+  .section9{
+    position: relative;
+    background-color: #171717;
+  }
+  .section9 .title{
+    width: 70%;
+    margin: auto;
+    font-family: medium;
+    color: #FFFFFF;
+    font-size: 60px;
+  }
+  .section9 .image img{
+    width: 100%;
+  }
+  .section9 .title2{
+    text-align: center;
+    font-family: medium;
+    color: #FFFFFF;
+    font-size: 60px;
+  }
+  .section9  .logimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .section9 .dis{
+    color: #FFFFFF;
+    font-family: regular;
+    font-size: 38px;
+    text-align: center;
+  }
+  .section9 .title3{
+    color: #148666;
+    text-align: center;
+    font-size: 50px;
+  }
+  .section9 .title3 span{
+    color: #FFFFFF;
+    text-align: center;
+  }
+  .section9 .link{
+    width: 50%;
+    margin: auto;
+  }
+  .section9 .link{
+    display: flex;
+    
+  }
+  .section9 .link .google{
+    margin-left: 4px;
+  }
+  .section9 .link a img{
+    width: 98%;
+  }
+
+  .section9 .thank{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 38px;
+    font-family: regular;
+  }
+
+  .section9 .sideimg{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  .section9 .sideimg img{
+    float: right;
+    width: 20%;
+  }
+
+  .section9 .sideimg1{
+    position: absolute;
+    left: 0px;
+    bottom: 350px;
+  }
+  .section9 .sideimg2{
+    
+    position: absolute;
+    right:  0px;
+    bottom: 250px;
+  }
+  .section9 .sideimg2 img{
+    float: right;
+    width: 30%;
+  }
+  .section9 .sideimg1 img{
+    width: 20%;
+  }
+
+  .section9 .sideimg3{
+    position: absolute;
+    right:  0px;
+    bottom: 50px;
+  }
+  .section9 .sideimg4{
+    
+    position: absolute;
+    left: 200px;
+    bottom: 0px;
+  }
+  .section9 .sideimg4 img{
+    width: 20%;
+  }
+  .section9 .sideimg3 img{
+  
+    width: 20%;
+  }
+    
+  @media (max-width: 1200px){
+    .section9 .sideimg3 img{
+      display: none;
+    }
+  }
+
+
+  @media (max-width: 425px){
+    header .row .col-md-8 img{ 
+        width: 20%;
+        height: auto;
+    }
+    header .row .col-md-4 img{ 
+        width: 47%;
+        height: auto;
+    }
+    header .ball3 img{
+        display: none;
+    }
+
+    
+  }
+
+  @media (max-width: 542px){
+   
+    .section2 .ball4 img{
+      width: 10%;
+    }
+
+    .section3 .ball3 img{
+        display: none;
+    }
+    .section4 .ball4 img{
+        width: 10%;
+    }
+   
+  }
+  @media (max-width: 767px){
+    .section5 .title{
+        margin-top: 5%;
+      
+      }
+  }
+
+
+
+
+
+  @media (max-width: 600px){
+    
+  .col-md-6 .section1 .title,
+  .section2 .container .title,
+  .section3 .title,
+  .section4 .title,
+  .section5 .title,
+  .section6 .title,
+  .section7 .title,
+  .section8 .title,
+  .section9 .title,
+  .section9 .title2,
+  .section9 .title3{
+    font-size: 30px;
+  }
+  .col-md-6 .section1 .dis,
+  .section5 .dis,
+  .section7 .dis,
+  .section8 .dis,
+  .section9 .dis,
+  .section9 .thank{
+   font-size: 20px;
+  }
+  .section6 .container{
+    width: 100%;
+    margin: auto;
+  }
+  .section2 .sideimg img{
+    float: right;
+    width: 7%;
+  }
+  .section6 .sideimg2 img{
+    float: right;
+    width: 10%;
+  }
+  .section6 .sideimg img{
+    width: 7%;
+  }
+
+  .section9 .sideimg img{
+    display: none;
+  }
+
+  .section8 .sideimg img{
+    width: 10%;
+  }
+
+  .section9 .sideimg2 img{
+    float: right;
+    width: 15%;
+  }
+  .section9 .sideimg1 img{
+    width: 10%;
+  }
+  .section9 .sideimg4 img{
+    width: 30%;
+  }
+  .section9 .sideimg3 img{
+    display: none;
+  }
+  .section9 .sideimg4{
+    left: 100px;
+  }
+
+}
+
+@media (max-width: 900px)  and (min-width:601px){
+  .col-md-6 .section1 .title,
+  .section2 .container .title,
+  .section3 .title,
+  .section4 .title,
+  .section5 .title,
+  .section6 .title,
+  .section7 .title,
+  .section8 .title,
+  .section9 .title,
+  .section9 .title2,
+  .section9 .title3{
+    font-size: 40px;
+  }
+  .col-md-6 .section1 .dis,
+  .section5 .dis,
+  .section7 .dis,
+  .section8 .dis,
+  .section9 .dis,
+  .section9 .thank{
+   font-size: 20px;
+  }
+  .section6 .container{
+    width: 100%;
+    margin: auto;
+  }
+  .section2 .sideimg img{
+    float: right;
+    width: 15%;
+  }
+  .section6 .sideimg2 img{
+    float: right;
+    width: 10%;
+  }
+  .section6 .sideimg img{
+    width: 12%;
+  }
+  .section9 .sideimg3 img{
+    display: none;
+  }
+
+}
+@media (max-width: 900px)  and (min-width:768px){
+  .col-md-6 .section1 .title,
+  .section2 .container .title,
+  .section3 .title,
+  .section4 .title,
+  .section5 .title,
+  .section6 .title,
+  .section7 .title,
+  .section8 .title,
+  .section9 .title,
+  .section9 .title2,
+  .section9 .title3{
+    font-size: 20px;
+  }
+  .col-md-6 .section1 .dis,
+  .section5 .dis,
+  .section7 .dis,
+  .section8 .dis,
+  .section9 .dis,
+  .section9 .thank{
+   font-size: 15px;
+  }
+  .section6 .container{
+    width: 100%;
+    margin: auto;
+  }
+}
